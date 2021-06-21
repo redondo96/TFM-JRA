@@ -1,4 +1,4 @@
-# Utilización de técnicas basadas en *random forest* y redes neuronales para mantenimiento predictivo
+# Comparativa de modelos de random forest y redes neuronales aplicados al mantenimiento predictivo con valores ausentes y datos desbalanceados
 
 En este repositorio se aloja el código de mi TFM del Máster en Tratamiento Estadístico-Computacional de la Información (TECI) de la UCM-UPM.
 
